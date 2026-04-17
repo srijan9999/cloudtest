@@ -4,6 +4,28 @@
 
 <img width="2247" height="517" alt="Screenshot 2026-04-15 235302" src="https://github.com/user-attachments/assets/619245a3-162a-49fe-9601-d694aef49792" />
 <img width="913" height="853" alt="Screenshot 2026-04-15 142947" src="https://github.com/user-attachments/assets/aa43b96e-6b96-4ef6-893b-75b035f31ef2" />
+
+Celiometre- Computes CPU metrics every 60 sec
+Neuron-Networking
+Nova-Compute
+Aodh- Cheak if VM required or not
+Swift-Object Storage 
+Horizon-UI
+Keystone-Authentication
+Gnocchi-Stores the CPU metrics
+Heat-Adds/Remove VMs to instance
+Cinder-Block storage 
+EC2 instance -Gives CPUs and Ram
+Auto Scaling Group-Adds or Delete VMs accounding to the requirement whatever Works works
+S3- Give storege services like Dropbox or Google
+Openstack Instance -Compute,Storage and network
+Instance Template-How VM should Configured 
+IAM- Gives/ Remove or gives limeted access to IAM user 
+Security Groups-Works like a firewall 
+
+
+
+
 <img width="2868" height="1616" alt="Screenshot 2026-04-16 235140" src="https://github.com/user-attachments/assets/f186db26-3ab5-4137-b858-68858008064c" />
 <img width="1309" height="777" alt="Screenshot 2026-04-15 143735" src="https://github.com/user-attachments/assets/0e08ee9f-5aaf-4a1a-8845-c69b27da05e7" />
 <img width="2877" height="1542" alt="Screenshot 2026-04-15 142458" src="https://github.com/user-attachments/assets/cf04b411-8719-49b5-944d-8df84db6739e" />
